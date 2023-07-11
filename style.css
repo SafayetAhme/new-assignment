@@ -157,3 +157,24 @@
     border-radius: 6px;
     color: white;
 }
+.cal-1 {
+    text-align: center;
+}
+.cal-1 h2{
+    padding-bottom: 12px;
+}
+.cal-1 p{
+    color: #686868;
+}
+.img-1 img {
+    width: 300px;
+    padding-top: 52px;
+}
+.img-4 {
+    display: flex;
+    justify-content: space-around;
+    width: 70%;
+    margin: auto;
+    gap: 14px;
+    padding-bottom: 90px;
+} 
