@@ -2,6 +2,7 @@
     padding: 0;
     margin: 0;
 }
+
 /*----------header-section----------*/
 .header-section {
     display: flex;
@@ -41,4 +42,59 @@
     padding-right: 110px;
     position: relative;
     bottom: -81px;
+}
+
+/*----------Our Featured Flowers----------*/
+.featured-text {
+    text-align: center;
+    padding-top: 140px;
+}
+.featured-text h3{
+    font-size: 20px;
+    font-weight: bolder;
+    color: #272727;
+}
+.featured-text p {
+    color: #272727a4;
+    padding-top: 15px;
+}
+.card-1 {
+    background-color: #e5547349;
+    padding: 30px;
+    width: 18%;
+    border-radius: 500px 500px 0px 0px;
+    margin-top: 90px;
+    margin-bottom: 20px;
+    margin-left: 14px;
+}
+.card-2 {
+    background-color: #49e4ec36;
+    padding: 30px;
+    width: 18%;
+    border-radius: 500px 500px 0px 0px;
+    margin-top: 90px;
+    margin-bottom: 20px;
+    margin-left: 14px;
+}
+.card-3 {
+    background-color: #9be94c34;
+    padding: 30px;
+    width: 18%;
+    border-radius: 500px 500px 0px 0px;
+    margin-top: 90px;
+    margin-bottom: 20px;
+    margin-left: 14px;
+}
+.card-img img{
+    width: 200px;
+    margin-bottom: -34px;
+    align-items: center;
+}
+.all-card {
+    padding-bottom: 50px;
+    display: flex;
+    padding-left: 225px;
+}
+.Featured-Flowers {
+    text-align: center;
 }
