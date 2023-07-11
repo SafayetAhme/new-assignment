@@ -117,7 +117,7 @@
 }
 /*----------Offer section----------*/
 .Offer-section {
-    width: 100%;
+    width: 91.30%;
     height: 35%;
     background-color: rgba(216, 169, 169, 0.212);
     padding: 60px;
@@ -157,6 +157,8 @@
     border-radius: 6px;
     color: white;
 }
+
+/*----------Instagram section----------*/
 .cal-1 {
     text-align: center;
 }
@@ -178,3 +180,43 @@
     gap: 14px;
     padding-bottom: 90px;
 } 
+
+/*----------Email submit section----------*/
+.cover-picter {
+    height: 22vh;
+    width: 70%;
+    margin: auto;
+    background-image: url(img/Rectangle\ 9.png);
+    background-position: center;
+    background-size: cover;
+    margin-bottom: 90px;
+}
+.cover-picter .text-ariya {
+    text-align: center;
+    position: relative;
+    top: 40%;
+    bottom: 40%;
+}
+.text-ariya h2{
+    padding-bottom: 6px;
+}
+.text-ariya p{
+    padding-bottom: 18px;
+    font-size: 14px;
+    color: rgb(124, 124, 124);
+}
+.email [type="text"] {
+    padding: 10px 122px;
+    border: none;
+    border-radius: 4px;
+}
+.email .placeholder{
+    text-align: right;
+}
+.email .submit {
+    padding: 10px 26px;
+    background-color: #E55473;
+    color: white;
+    border: none;
+    border-radius: 4px;
+}
