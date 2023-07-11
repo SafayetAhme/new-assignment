@@ -8,7 +8,7 @@
     display: flex;
     justify-content: space-around;
     align-items: center;
-    height: 60vh;
+    height: 90vh;
     width: 100%;
     background-color: #e554731e;
     background-position: center;
@@ -40,7 +40,7 @@
     border-radius: 6px;
 }
 .flower-img img{
-    width: 500px;
+    width: 360px;
     padding-right: 110px;
     position: relative;
     bottom: -81px;
@@ -230,7 +230,7 @@
 
 /*----------Email submit section----------*/
 .cover-picter {
-    height: 22vh;
+    height: 65vh;
     width: 70%;
     margin: auto;
     background-image: url(img/Rectangle\ 9.png);
