@@ -115,6 +115,9 @@
 .all-section {
     text-align: center;
 }
+.img-and-text p{
+    padding-top: 12px;
+}
 /*----------Offer section----------*/
 .Offer-section {
     width: 91.30%;
