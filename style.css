@@ -220,3 +220,23 @@
     border: none;
     border-radius: 4px;
 }
+
+/*----------Footer section----------*/
+.Footer {
+    background-color: black;
+    padding: 90px;
+    text-align: center;
+    color: white;
+}
+.Footer span{
+    color: #E55473;
+}
+.Footer h1{
+    padding-bottom: 12px;
+}
+.Footer p{
+    padding-bottom: 12px;
+}
+.Footer .footer-email {
+    color: #b4b4b4;
+}
