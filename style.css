@@ -1,0 +1,44 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+/*----------header-section----------*/
+.header-section {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 60vh;
+    width: 100%;
+    background-color: #e554731e;
+    background-position: center;
+    background-size: cover;
+}
+.text-container {
+    width: 40%;
+    padding-left: 110px;
+}
+.text-container h1 {
+    font-size: 60px;
+    font-weight: bolder;
+    color: #272727;
+}
+.text-container p {
+    font-size: 14px;
+    color: #27272794;
+    padding-top: 16px;
+    padding-bottom: 20px;
+    margin-top: 12px;   
+}
+.text-container .btn {
+    background-color: #E55473;
+    border: none;
+    padding: 12px 26px;
+    color: white;
+    border-radius: 6px;
+}
+.flower-img img{
+    width: 500px;
+    padding-right: 110px;
+    position: relative;
+    bottom: -81px;
+}
