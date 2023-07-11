@@ -98,3 +98,20 @@
 .Featured-Flowers {
     text-align: center;
 }
+
+/*----------Support section----------*/
+.all-section {
+    display: flex;
+    padding: 22px;
+    background-color: #27272718;
+    width: 70%;
+    margin: auto;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 60px;
+    padding: 42px;
+}
+.all-section {
+    text-align: center;
+}
+/*----------Support section----------*/
