@@ -15,7 +15,7 @@
     background-size: cover;
 }
 .text-container {
-    width: 40%;
+    width: 36%;
     padding-left: 110px;
 }
 .text-container h1 {
@@ -24,11 +24,13 @@
     color: #272727;
 }
 .text-container p {
-    font-size: 14px;
-    color: #27272794;
+    font-size: 16px;
+    font-weight:normal;
+    color: rgb(75, 75, 75);
     padding-top: 16px;
     padding-bottom: 20px;
     margin-top: 12px;   
+    line-height: 24px;
 }
 .text-container .btn {
     background-color: #E55473;
@@ -57,6 +59,7 @@
 .featured-text p {
     color: #272727a4;
     padding-top: 15px;
+    line-height: 22px;
 }
 .card-1 {
     background-color: #e5547349;
@@ -103,7 +106,7 @@
 .all-section {
     display: flex;
     padding: 22px;
-    background-color: #27272718;
+    background-color: #52525218;
     width: 70%;
     margin: auto;
     align-items: center;
@@ -152,6 +155,7 @@
 .left-text p{
     color: #272727ad;
     padding-bottom: 22px;
+    line-height: 22px;
 }
 .left-text .btn {
     background-color: #E55473;
@@ -170,6 +174,7 @@
 }
 .cal-1 p{
     color: #686868;
+    line-height: 22px;
 }
 .img-1 img {
     width: 300px;
@@ -209,12 +214,11 @@
     color: rgb(124, 124, 124);
 }
 .email [type="text"] {
+    flex: 1;
     padding: 10px 122px;
     border: none;
+    outline: none;
     border-radius: 4px;
-}
-.email .placeholder{
-    text-align: right;
 }
 .email .submit {
     padding: 10px 26px;
@@ -239,6 +243,7 @@
 }
 .Footer p{
     padding-bottom: 12px;
+    line-height: 22px;
 }
 .Footer .footer-email {
     color: #b4b4b4;
